@@ -1,0 +1,48 @@
+/* Styles for the About Section */
+#about {
+  padding: 60px;
+  
+  border-collapse: collapse;
+  padding-top: 50px;
+}
+
+#about .container {
+  border: 2px solid #000;
+}
+
+
+
+.about-info {
+  padding-left: 40px;
+}
+
+.skill-mf {
+  margin-top: 30px;
+}
+
+.title-s {
+  font-size: 44px;
+  font-weight: bold;
+  margin-bottom: 25px;
+}
+
+.progress {
+  height: 10px;
+  margin-bottom: 20px;
+}
+
+.progress-bar {
+  background-color: #4d4d4d;
+}
+
+.title-left {
+  font-size: 42px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.about-me ul {
+  padding-left: 70px;
+  list-style-type: disc;
+}
+
